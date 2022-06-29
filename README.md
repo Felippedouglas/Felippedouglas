@@ -1,6 +1,5 @@
 ### Oi, Eu sou o Felippe douglas
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felippedouglas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
 <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippedouglas&layout=compact&langs_count=7&theme=dark"/>
 
 <div style="display: inline_block"><br>
