@@ -12,3 +12,5 @@
 [![Portfólio](https://img.shields.io/website?label=Felippedouglas.online&style=for-the-badge&url=https://felippedouglas.online/)](https://felippedouglas.online)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com)
+
+[![Snake animation](https://github.com/felippedouglas/blob/output/github-contribution-grid-snake.svg)]
