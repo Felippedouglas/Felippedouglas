@@ -8,13 +8,12 @@
 
 <hr>
 
+## | Tecnologias e Ferramentas
+
 <a href="https://github.com/Felippedouglas/Felippedouglas">
     <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippedouglas&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
-<hr>
-
-## Tecnologias e ferramentas
 <div style="display: inline_block"><br>
         <img title="HTML5" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img title="CSS3" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,6 +27,10 @@
         <img title="Illustrator" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
         <img title="Figma" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div><br>
+
+<hr>
+
+## | Redes sociais
 
 [![Portfólio](https://img.shields.io/website?label=Felippedouglas.tech&style=for-the-badge&url=https://felippedouglas.tech/)](https://felippedouglas.tech)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
