@@ -1,9 +1,20 @@
-### Oi, Eu sou o Felippe douglas
+### Olá! Eu sou o Felippe douglas 🙋‍♂️
+
+<div>
+    <p>💻| Desenvolvedor web</p>
+    <p>🎨| Web designer</p>
+    <p>📖| Estudando Back end</p>
+</div>
+
+<hr>
 
 <a href="https://github.com/Felippedouglas/Felippedouglas">
     <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippedouglas&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
+<hr>
+
+## Tecnologias e ferramentas
 <div style="display: inline_block"><br>
         <img title="HTML5" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img title="CSS3" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
