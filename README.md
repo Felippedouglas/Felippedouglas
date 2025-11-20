@@ -34,6 +34,6 @@
 
 [![Portfólio](https://img.shields.io/website?label=Felippedouglas.tech&style=for-the-badge&url=https://felippedouglas.tech/)](https://felippedouglas.tech)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippe-douglas-01956321b/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
 ![Snake animation](https://github.com/felippedouglas/felippedouglas/blob/output/github-contribution-grid-snake.svg)
